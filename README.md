@@ -2,6 +2,8 @@
 
 A desktop implementation of the classic card game **War**, built in Java with a Swing GUI.
 
+![War Card Game — battle screen](docs/screenshot.png)
+
 ## Features
 
 - Full graphical interface (JFrame/JPanel) with card art, table background, and background music
