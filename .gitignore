@@ -1,0 +1,15 @@
+# Build output
+bin/
+out/
+resources/app/
+
+# IDE
+.idea/
+.metadata/
+*.iml
+.classpath
+.project
+
+# Runtime save files
+savegame.txt
+saveuser.txt
